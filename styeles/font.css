@@ -1,0 +1,51 @@
+ @font-face {
+    font-family: "vazir";
+    src: url(./fonts/Vazir-Black.woff2);
+    font-family: "vazir";
+    src: url(./fonts/Vazir-Black.woff);
+    /* font-family: "Nunito";
+    src: url(../fonts/Nunito-Light.ttf);
+     font-family: "Nunito";
+    src: url(../fonts/Nunito-Black.ttf); */
+    font-family: "Nunito";
+    src: url(../fonts/Nunito-Regular.ttf);
+  
+  
+  
+    
+} 
+
+@font-face {
+      font-family: "Nunito-italic.ttf";
+    src: url(../fonts/Nunito-Italic.ttf);
+}
+
+@font-face {
+     font-family: "Nunito-ExtraBold.ttf";
+    src: url(../fonts/Nunito-ExtraBold.ttf);  
+}
+
+@font-face {
+      font-family: "Nunito-Bold.ttf";
+    src: url(../fonts/Nunito-Bold.ttf);
+}
+
+@font-face {
+      font-family: "Nunito-Light.ttf";
+    src: url(../fonts/Nunito-Light.ttf);
+}
+
+
+@font-face {
+      font-family: "Nunito-Black.ttf";
+    src: url(../fonts/Nunito-Black.ttf);
+}
+
+@font-face {
+  font-family: "Nunito-Regular.ttf";
+src: url(../fonts/Nunito-Regular.ttf);
+}
+
+
+
+
